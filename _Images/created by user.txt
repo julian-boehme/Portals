@@ -1,0 +1,4 @@
+The "Images" folder has been created by me.
+Not an Unreal Engine standard folder.
+Contains all images (e.g. for UI).
+Does NOT contain textures.

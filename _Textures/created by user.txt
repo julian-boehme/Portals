@@ -1,0 +1,3 @@
+The "Textures" folder has been created by me.
+Not an Unreal Engine standard folder.
+Contains textures for models.
